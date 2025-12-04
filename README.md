@@ -35,3 +35,5 @@ La aplicación implementa las siguientes tecnologías avanzadas:
 
 https://gist.github.com/dMoscog/c3661ddb2146b2ca128424ebb9ab6395
 
+https://github.com/dMoscog/Geodiario
+
