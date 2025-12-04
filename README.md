@@ -1,6 +1,8 @@
 📱 GeoDiario: Bitácora de Campo
 
 Materia: Aplicaciones Móviles
+
+Equipo 10
 Integrantes:
 
 José Iván Barredo Morales (334008055)
