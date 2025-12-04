@@ -5,13 +5,13 @@ Materia: Aplicaciones Móviles
 Equipo 10
 Integrantes:
 
-José Iván Barredo Morales (334008055)
+José Iván Barredo Morales
 
-David de Jesús Mosco Gasca (20627034)
+David de Jesús Mosco Gasca
 
-Immanuel Alonso Warvar (334007747)
+Immanuel Alonso Warvar 
 
-Jesus Pérez Pérez (334008183)
+Jesus Pérez Pérez 
 
 Fecha: 3 Diciembre 2025
 
