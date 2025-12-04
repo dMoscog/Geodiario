@@ -33,3 +33,5 @@ La aplicación implementa las siguientes tecnologías avanzadas:
 
 🎨 UI/UX Avanzada: Diseño personalizado "Dark Mode" con efectos de neón, tarjetas traslúcidas y componentes animados.
 
+https://gist.github.com/dMoscog/c3661ddb2146b2ca128424ebb9ab6395
+
